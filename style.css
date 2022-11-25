@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    font-size: 18px;
+    color: #c9e8fd;
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+}
+
+.copy_right_footer{
+    position: sticky;
+    color: darkred;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+    margin-top: 700px;
+}
+
+.photo{
+    display: block;
+    margin-left: 10px;
+    width: 50%;
+}
+
+.button{
+    padding-left: 10px;
+}
